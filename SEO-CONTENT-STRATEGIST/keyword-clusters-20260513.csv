@@ -1,0 +1,19 @@
+keyword,avg_monthly_searches,competition_index,avg_cpc_usd,main_cluster,sub_cluster,representative_keyword,dominant_intent,difficulty,priority_score
+best tang qua tet doanh nghiep,4400,22,5.27,Quà Tết Doanh Nghiệp,Quà tặng đối tác & khách hàng,best tang qua tet doanh nghiep,C,Low,8
+top tang qua tet doanh nghiep,12100,52,1.60,Quà Tết Doanh Nghiệp,Quà tặng đối tác & khách hàng,best tang qua tet doanh nghiep,C,Medium,7
+tang qua tet doi tac,390,48,5.25,Quà Tết Doanh Nghiệp,Quà tặng đối tác & khách hàng,best tang qua tet doanh nghiep,C,Medium,5
+qua tet cho khach hang doanh nghiep,110,77,1.15,Quà Tết Doanh Nghiệp,Quà tặng đối tác & khách hàng,best tang qua tet doanh nghiep,C,High,4
+qua tet vip,2400,69,1.91,Quà Tết Doanh Nghiệp,Quà cao cấp & sang trọng,best tang qua tet doanh nghiep,C,Medium,6
+qua tet doanh nghiep sang trong,110,42,6.67,Quà Tết Doanh Nghiệp,Quà cao cấp & sang trọng,best tang qua tet doanh nghiep,C,Medium,6
+set qua tet luxury,590,82,5.88,Quà Tết Doanh Nghiệp,Quà cao cấp & sang trọng,best tang qua tet doanh nghiep,C,High,6
+qua tet khach san 5 sao,590,79,0.57,Quà Tết Khách Sạn & Resort,Khách sạn 5 sao,qua tet khach san 5 sao,C,High,5
+qua tet khach san,110,70,4.83,Quà Tết Khách Sạn & Resort,Khách sạn 5 sao,qua tet khach san 5 sao,C,High,5
+qua tet resort 5 sao,590,27,5.92,Quà Tết Khách Sạn & Resort,Khách sạn 5 sao,qua tet khach san 5 sao,C,Low,7
+hop qua tet cao cap,210,66,0.41,Quà Tết Khách Sạn & Resort,Hộp & giỏ quà cao cấp,qua tet khach san 5 sao,C,Medium,4
+gio qua tet cao cap,210,47,7.09,Quà Tết Khách Sạn & Resort,Hộp & giỏ quà cao cấp,qua tet khach san 5 sao,C,Medium,6
+qua tet cao cap,70,56,4.09,Quà Tết Khách Sạn & Resort,Hộp & giỏ quà cao cấp,qua tet khach san 5 sao,C,Medium,4
+mua qua tet o dau dep,210,19,6.34,Gợi Ý Quà Tết Theo Nhu Cầu,Mua ở đâu & gợi ý,mua qua tet o dau dep,T,Low,7
+qua tet y nghia cho sep,390,51,4.62,Gợi Ý Quà Tết Theo Nhu Cầu,Quà theo người nhận,mua qua tet o dau dep,I,Medium,5
+hop ruou qua tet,390,84,7.13,Gợi Ý Quà Tết Theo Nhu Cầu,Quà theo loại sản phẩm,mua qua tet o dau dep,C,High,5
+my pham qua tet cao cap,210,19,1.73,Gợi Ý Quà Tết Theo Nhu Cầu,Quà theo loại sản phẩm,mua qua tet o dau dep,C,Low,5
+viet nam tea gift tet,590,77,0.67,Gợi Ý Quà Tết Theo Nhu Cầu,Quà theo loại sản phẩm,mua qua tet o dau dep,C,High,4

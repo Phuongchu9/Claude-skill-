@@ -1,0 +1,192 @@
+================================================================================
+SEO CONTENT PLAN — QUÀ TẾT KHÁCH SẠN 5 SAO
+Tạo bởi: SEO Content Strategist Agent
+Ngày: 2026-05-13
+[DEMO MODE] — Dữ liệu dummy, cấu trúc thực tế
+================================================================================
+
+
+================================================================================
+PHẦN 1 — KEYWORD DATA (18 keywords)
+================================================================================
+
+keyword                                  | volume | competition | comp_index | cpc_usd | main_cluster                    | sub_cluster                        | intent | difficulty | priority
+-----------------------------------------|--------|-------------|------------|---------|---------------------------------|------------------------------------|--------|------------|----------
+best tang qua tet doanh nghiep           |  4,400 | LOW         |         22 |    5.27 | Quà Tết Doanh Nghiệp            | Quà tặng đối tác & khách hàng      | C      | Low        |        8
+top tang qua tet doanh nghiep            | 12,100 | MEDIUM      |         52 |    1.60 | Quà Tết Doanh Nghiệp            | Quà tặng đối tác & khách hàng      | C      | Medium     |        7
+qua tet vip                              |  2,400 | MEDIUM      |         69 |    1.91 | Quà Tết Doanh Nghiệp            | Quà cao cấp & sang trọng           | C      | Medium     |        6
+set qua tet luxury                       |    590 | HIGH        |         82 |    5.88 | Quà Tết Doanh Nghiệp            | Quà cao cấp & sang trọng           | C      | High       |        6
+qua tet doanh nghiep sang trong          |    110 | MEDIUM      |         42 |    6.67 | Quà Tết Doanh Nghiệp            | Quà cao cấp & sang trọng           | C      | Medium     |        6
+tang qua tet doi tac                     |    390 | MEDIUM      |         48 |    5.25 | Quà Tết Doanh Nghiệp            | Quà tặng đối tác & khách hàng      | C      | Medium     |        5
+qua tet cho khach hang doanh nghiep      |    110 | HIGH        |         77 |    1.15 | Quà Tết Doanh Nghiệp            | Quà tặng đối tác & khách hàng      | C      | High       |        4
+qua tet resort 5 sao                     |    590 | LOW         |         27 |    5.92 | Quà Tết Khách Sạn & Resort      | Khách sạn 5 sao                    | C      | Low        |        7
+qua tet khach san 5 sao                  |    590 | HIGH        |         79 |    0.57 | Quà Tết Khách Sạn & Resort      | Khách sạn 5 sao                    | C      | High       |        5
+qua tet khach san                        |    110 | HIGH        |         70 |    4.83 | Quà Tết Khách Sạn & Resort      | Khách sạn 5 sao                    | C      | High       |        5
+gio qua tet cao cap                      |    210 | MEDIUM      |         47 |    7.09 | Quà Tết Khách Sạn & Resort      | Hộp & giỏ quà cao cấp              | C      | Medium     |        6
+hop qua tet cao cap                      |    210 | MEDIUM      |         66 |    0.41 | Quà Tết Khách Sạn & Resort      | Hộp & giỏ quà cao cấp              | C      | Medium     |        4
+qua tet cao cap                          |     70 | MEDIUM      |         56 |    4.09 | Quà Tết Khách Sạn & Resort      | Hộp & giỏ quà cao cấp              | C      | Medium     |        4
+mua qua tet o dau dep                    |    210 | LOW         |         19 |    6.34 | Gợi Ý Quà Tết Theo Nhu Cầu     | Mua ở đâu & gợi ý                  | T      | Low        |        7
+my pham qua tet cao cap                  |    210 | LOW         |         19 |    1.73 | Gợi Ý Quà Tết Theo Nhu Cầu     | Quà theo loại sản phẩm             | C      | Low        |        5
+qua tet y nghia cho sep                  |    390 | MEDIUM      |         51 |    4.62 | Gợi Ý Quà Tết Theo Nhu Cầu     | Quà theo người nhận                | I      | Medium     |        5
+hop ruou qua tet                         |    390 | HIGH        |         84 |    7.13 | Gợi Ý Quà Tết Theo Nhu Cầu     | Quà theo loại sản phẩm             | C      | High       |        5
+viet nam tea gift tet                    |    590 | HIGH        |         77 |    0.67 | Gợi Ý Quà Tết Theo Nhu Cầu     | Quà theo loại sản phẩm             | C      | High       |        4
+
+
+================================================================================
+PHẦN 2 — CLUSTER ARCHITECTURE MAP
+================================================================================
+
+[Cluster 1] Quà Tết Doanh Nghiệp
+  Volume cluster: ~17,600 lượt/tháng | Intent: C | Content type: Best-of / Comparison
+  ├── [PILLAR]  Tặng quà tết doanh nghiệp sang trọng   → Bài 1  (~2,800 từ)
+  ├── [Spoke]   Tặng quà tết cho đối tác               → Bài 2  (~1,500 từ)
+  └── [Spoke]   Set quà tết luxury / quà tết VIP        → Bài 3  (~1,500 từ)
+
+[Cluster 2] Quà Tết Khách Sạn & Resort
+  Volume cluster: ~1,500 lượt/tháng | Intent: C | Content type: Best-of / Product showcase
+  ├── [PILLAR]  Quà tết khách sạn 5 sao                → Bài 4  (~2,000 từ)
+  ├── [Spoke]   Quà tết resort 5 sao                   → Bài 5  (~1,200 từ)
+  └── [Spoke]   Hộp & giỏ quà tết cao cấp              → Bài 6  (~1,200 từ)
+
+[Cluster 3] Gợi Ý Quà Tết Theo Nhu Cầu
+  Volume cluster: ~1,300 lượt/tháng | Intent: I/T | Content type: Listicle / How-to
+  ├── [PILLAR]  Mua quà tết ở đâu đẹp                  → Bài 7  (~1,600 từ)
+  └── [Spoke]   Mỹ phẩm cao cấp làm quà tết            → Bài 8  (~1,200 từ)
+
+Tổng: 3 clusters | 8 bài | ~14,500 từ
+
+
+================================================================================
+PHẦN 3 — PRIORITY CONTENT TABLE
+================================================================================
+
+#  | Bài viết                                    | Keyword chính              | Cluster      | Type   | Words | Difficulty | Priority
+---|---------------------------------------------|----------------------------|--------------|--------|-------|------------|----------
+1  | Top 30 Quà Tết Doanh Nghiệp Sang Trọng      | tặng quà tết doanh nghiệp  | Doanh Nghiệp | Pillar | 2,800 | Low        | 🔴 HIGH
+2  | Quà Tết Khách Sạn 5 Sao – 20 Gợi Ý Luxury   | quà tết khách sạn 5 sao    | Khách Sạn    | Pillar | 2,000 | High       | 🟡 MEDIUM
+3  | Mua Quà Tết Ở Đâu Đẹp? Top 15 Địa Chỉ       | mua quà tết ở đâu đẹp      | Nhu Cầu      | Pillar | 1,600 | Low        | 🔴 QUICK WIN
+4  | Quà Tết Resort 5 Sao – Đặc Sản Địa Phương    | quà tết resort 5 sao       | Khách Sạn    | Spoke  | 1,200 | Low        | 🔴 QUICK WIN
+5  | Tặng Quà Tết Cho Đối Tác Doanh Nghiệp        | tặng quà tết đối tác       | Doanh Nghiệp | Spoke  | 1,500 | Medium     | 🟡 MEDIUM
+6  | Set Quà Tết Luxury – Quà VIP Cao Cấp         | set quà tết luxury          | Doanh Nghiệp | Spoke  | 1,500 | High       | 🟡 MEDIUM
+7  | Hộp & Giỏ Quà Tết Cao Cấp Đẹp Nhất          | hộp quà tết cao cấp         | Khách Sạn    | Spoke  | 1,200 | Medium     | 🟢 LOW
+8  | Mỹ Phẩm Cao Cấp Làm Quà Tết                  | mỹ phẩm quà tết cao cấp    | Nhu Cầu      | Spoke  | 1,200 | Low        | 🔴 QUICK WIN
+
+
+================================================================================
+PHẦN 4 — CONTENT CALENDAR (8 TUẦN TRƯỚC TẾT)
+================================================================================
+
+Chiến lược: Pillar trước → Spoke cùng cluster → Quick Wins chen vào sớm
+Tết Bính Ngọ 2026 ~ 17/02 → publish xong trước 20/01 là lý tưởng
+
+Tuần | Ngày pub  | Bài # | Bài viết                              | Keyword                    | Ghi chú
+-----|-----------|-------|---------------------------------------|----------------------------|---------------------------
+1    | 05/01     | Bài 1 | Top 30 Quà Tết Doanh Nghiệp           | tặng quà tết doanh nghiệp  | Bài nền, build link từ đây
+2    | 08/01     | Bài 3 | Mua Quà Tết Ở Đâu Đẹp                | mua quà tết ở đâu đẹp      | Quick Win, rank nhanh
+3    | 10/01     | Bài 4 | Quà Tết Resort 5 Sao                  | quà tết resort 5 sao       | Quick Win, difficulty Low
+4    | 12/01     | Bài 2 | Quà Tết Khách Sạn 5 Sao              | quà tết khách sạn 5 sao    | Link từ Bài 1 + 4
+5    | 14/01     | Bài 5 | Tặng Quà Tết Cho Đối Tác             | tặng quà tết đối tác       | Link về Pillar 1
+6    | 16/01     | Bài 8 | Mỹ Phẩm Cao Cấp Làm Quà Tết         | mỹ phẩm quà tết            | Quick Win, CPC thấp
+7    | 18/01     | Bài 6 | Set Quà Tết Luxury                    | set quà tết luxury          | Link về Pillar 1+2
+8    | 20/01     | Bài 7 | Hộp & Giỏ Quà Tết Cao Cấp           | hộp quà tết cao cấp         | Link về Pillar 2
+
+
+================================================================================
+PHẦN 5 — INTERNAL LINK BLUEPRINT
+================================================================================
+
+Bài 1 (Pillar — Doanh Nghiệp)
+  → Link TO  : Bài 2, Bài 4, Bài 3, Bài 8
+  ← Link FROM: Homepage, danh mục Tết, Bài 5, Bài 6
+
+Bài 2 (Pillar — Khách Sạn)
+  → Link TO  : Bài 1, Bài 4, Bài 6, Bài 7
+  ← Link FROM: Bài 1, Bài 4, Homepage
+
+Bài 3 (Pillar — Nhu Cầu)
+  → Link TO  : Bài 1, Bài 2, Bài 8
+  ← Link FROM: Bài 1, Homepage
+
+Bài 4 (Spoke)
+  → Link TO  : Bài 2 (pillar)
+  ← Link FROM: Bài 1, Bài 2
+
+Bài 5 (Spoke)
+  → Link TO  : Bài 1 (pillar)
+  ← Link FROM: Bài 1
+
+Bài 6 (Spoke)
+  → Link TO  : Bài 1, Bài 2
+  ← Link FROM: Bài 1, Bài 2
+
+Bài 7 (Spoke)
+  → Link TO  : Bài 2 (pillar)
+  ← Link FROM: Bài 2
+
+Bài 8 (Spoke)
+  → Link TO  : Bài 3 (pillar)
+  ← Link FROM: Bài 1, Bài 3
+
+
+================================================================================
+PHẦN 6 — QUICK WINS (LÀM NGAY ĐỂ CÓ KẾT QUẢ TRƯỚC TẾT)
+================================================================================
+
+Keyword                          | Volume | Difficulty | Intent | CPC    | Lý do ưu tiên
+---------------------------------|--------|------------|--------|--------|------------------------------------------
+best tang qua tet doanh nghiep   |  4,400 | Low  (22)  | C      | $5.27  | Volume cao nhất + Difficulty thấp = ROI lớn nhất
+qua tet resort 5 sao             |    590 | Low  (27)  | C      | $5.92  | Niche rõ ràng, ít cạnh tranh
+mua qua tet o dau dep            |    210 | Low  (19)  | T      | $6.34  | Transactional → chuyển đổi cao
+my pham qua tet cao cap          |    210 | Low  (19)  | C      | $1.73  | Dễ viết, Low difficulty
+
+Khuyến nghị: Bài 1 + Bài 3 + Bài 4 → publish trước → theo dõi 3 tuần → bổ sung spokes.
+
+
+================================================================================
+PHẦN 7 — CONTENT BRIEFS (TÓM TẮT — XEM FILE RIÊNG ĐỂ GIAO WRITER)
+================================================================================
+
+[Bài 1] content-brief-tang-qua-tet-doanh-nghiep.md
+  H1    : Top 30 Quà Tết Doanh Nghiệp Sang Trọng – Gợi Ý Theo Ngân Sách & Ngành Nghề
+  Slug  : /tang-qua-tet-doanh-nghiep
+  Words : ~2,800
+  Title : Top 30 Quà Tết Doanh Nghiệp Sang Trọng Theo Ngân Sách | [Brand]
+  Desc  : Gợi ý 30+ quà Tết doanh nghiệp từ dưới 200K đến VIP 5 sao. Bảng chọn theo
+          ngành, ngân sách, checklist đặt hàng số lượng lớn. Đặt trước Tết 4 tuần.
+  Unique: Bảng "Quà Tết phù hợp theo ngành" + timeline đặt hàng cụ thể theo tuần.
+
+[Bài 2] content-brief-qua-tet-khach-san-5-sao.md
+  H1    : Quà Tết Khách Sạn 5 Sao – 20 Gợi Ý Xứng Tầm Luxury Cho Nhân Viên & Đối Tác
+  Slug  : /qua-tet-khach-san-5-sao
+  Words : ~2,000
+  Title : Quà Tết Khách Sạn 5 Sao – 20 Gợi Ý Luxury Cho Nhân Viên & Đối Tác
+  Desc  : Gợi ý 20 món quà Tết xứng tầm 5 sao: trà Shan Tuyết, rượu Cognac, hamper
+          cao cấp. Phân loại nhân viên và VIP. In logo, giao số lượng lớn.
+  Unique: Phân chia rõ nhân viên vs đối tác/VIP guest — không có bài nào trên SERP làm.
+
+[Bài 3] content-brief-mua-qua-tet-o-dau.md
+  H1    : Mua Quà Tết Ở Đâu Đẹp & Uy Tín? Top 15 Địa Chỉ Online & Offline 2026
+  Slug  : /mua-qua-tet-o-dau
+  Words : ~1,600
+  Title : Mua Quà Tết Ở Đâu Đẹp? Top 15 Địa Chỉ Online & Offline Uy Tín 2026
+  Desc  : Tổng hợp 15 địa chỉ mua quà Tết đẹp, uy tín: Shopee Mall, web chuyên đến
+          showroom offline. So sánh giá, MOQ, in logo, ship toàn quốc.
+  Unique: Bảng so sánh Online vs Offline vs B2B custom với tiêu chí cụ thể.
+
+
+================================================================================
+PHẦN 8 — FILES ĐÃ TẠO
+================================================================================
+
+C:\Users\VINH PHUONG\seo-output\
+├── keyword-clusters-20260513.csv                     ← 18 keywords phân loại
+├── content-brief-tang-qua-tet-doanh-nghiep.md        ← Brief Bài 1 (giao writer ngay)
+├── content-brief-qua-tet-khach-san-5-sao.md          ← Brief Bài 2 (giao writer ngay)
+├── content-brief-mua-qua-tet-o-dau.md                ← Brief Bài 3 (giao writer ngay)
+├── content-plan-20260513.md                           ← Kế hoạch tổng hợp (markdown)
+└── seo-content-plan-qua-tet-khach-san-5-sao.txt      ← File này
+
+
+================================================================================
+END OF REPORT
+================================================================================
